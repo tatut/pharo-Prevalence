@@ -10,7 +10,6 @@ All changes and queries are handled serially with a mutex. All changes are persi
 being applied.
 
 Load:
-```
 ```smalltalk
  Metacello new
    repository: 'github://tatut/pharo-Prevalence/src';
