@@ -1,4 +1,0 @@
-accessing
-ts
-
-	^ ts
