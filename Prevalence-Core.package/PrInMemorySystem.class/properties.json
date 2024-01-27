@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "TatuTarvainen 1/25/2024 19:30",
+	"super" : "PrSystem",
+	"category" : "Prevalence-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "PrInMemorySystem",
+	"type" : "normal"
+}

@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "PrSystem",
+	"category" : "Prevalence-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"logDir",
+		"batchSize",
+		"logWriter"
+	],
+	"name" : "PrFileLogSystem",
+	"type" : "normal"
+}

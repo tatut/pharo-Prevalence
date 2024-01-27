@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "PrEvent",
+	"category" : "Prevalence-Core-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"key"
+	],
+	"name" : "PrTestIncrementKey",
+	"type" : "normal"
+}
